@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#image{
+    position: absolute;
+    left: 40%;
+    top: 30%;
+    height: 350px;
+    width: 250px;
+}

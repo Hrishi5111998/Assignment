@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #262626;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.container{
+    display: grid;
+    place-items: center;  
+}
+.btn{
+    font-size: 25px;
+    padding: 10px 15px;
+    background: #808080;
+    color: #000;
+}
